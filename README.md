@@ -2,8 +2,8 @@
 
 Hi, I´m Arturo Barrios | @barrios_tic :wave:
 
-I am a Biology researcher specialized in environmental microbiology and theoretical biology. Curious in the investigation of complex systems, of computational tools for the description of emergent properties in ecology and evolutionary biology. 
-Student on Education, motivated to share what I've learned. ICT enthusiast as a medium to popularize and democratize knowledge with e-Learning and Communication technologies (TV and social networks).
+I am a Biology researcher specialized in environmental microbiology. Curious in the investigation of complex systems, of computational tools for the description of emergent properties in ecology. 
+Also, student on Education and motivated to share what I've learned. ICT enthusiast as a medium to popularize and democratize knowledge with e-Learning and Communication technologies (TV and social networks).
 
    :school: I'm STEM teacher and Researcher, this is my ORCiD [0000-0002-7043-4600](http://orcid.org/0000-0002-7043-4600)
 
