@@ -20,7 +20,7 @@ Also, student on Education and motivated to share what I've learned. ICT enthusi
 **Social Media Profiles:**
 
 <a href="https://platzi.com/p/Barrios_TIC/">
-    <img width="72" src="https://static.platzi.com/media/learningpath/badges/426f8baa-c38c-4f41-af01-1ed55754bc08.jpg" />
+    <img width="72" src="https://commons.wikimedia.org/wiki/File:LOGO-PLATZI-2023.svg" />
 </a>
 <a href="https://twitter.com/barrios_tic">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
